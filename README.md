@@ -1,2 +1,2 @@
-# Machine-Leaning
-Machine Learning Projcets
+# Deep-Learning / Machine-Leaning
+Deep Learning / Machine Learning Projcets
